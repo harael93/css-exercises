@@ -1,0 +1,4 @@
+.odd {background-color: lightcoral; color: beige; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+.text-size-change {font-size: 24px;}
+#two {color : darkblue; text-size-adjust: 32px; font-weight: bold;}
+#four {color: black; background-color: green; text-size-adjust: 24px; font-weight: bolder;}
